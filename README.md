@@ -40,3 +40,5 @@ Describe any challenges encountered while building the app.
 
 ### Notes
 The challenges i encountered were mostly in the settings i had on my xcode. So for my app to run and work i had to do a lot of cleaning 
+
+My Xcode doesnt like commiting to github right now so commited changes unconventionally
